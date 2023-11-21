@@ -11,7 +11,7 @@ namespace november21
         static void Main(string[] args)
         {
             Console.WriteLine("Hello GitHub");
-            Console.WriteLine("Hello Barna");
+            Console.WriteLine("Hello BSandor 46");
             Console.ReadLine();
         }
     }

@@ -12,6 +12,7 @@ namespace november21
         {
             Console.WriteLine("Hello GitHub");
             Console.WriteLine("Hello BSandor 46");
+            Console.WriteLine("kicsit elfáradtam");
             Console.ReadLine();
         }
     }
